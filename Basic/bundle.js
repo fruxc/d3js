@@ -65,7 +65,7 @@
     .call(d3.axisBottom(x).ticks(5));
   svg
     .append("g")
-    .attr("transform", "translate(25,0)")
+    .attr("transform", "translate(30,0)")
     .call(d3.axisLeft(y).ticks(5));
 
   var drawLine = d3
