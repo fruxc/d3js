@@ -16,4 +16,4 @@ browser-sync start --server -f -w
 
 ### Tree Visualization
 
-![Tree Visualization](https://github.com/fruxc/d3js/blob/master/TreeVisualization/treegif.gif "Tree Visualization")
+![Tree Visualization](https://github.com/fruxc/d3js/blob/master/TreeVisualization/treegif.gif?raw=true "Tree Visualization")
